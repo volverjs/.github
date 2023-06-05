@@ -30,4 +30,4 @@ It's the collection of open-source projects maintained with ♥️ by
 
 - 📖 Documentation - [Storybook](https://storybook.js.org/)
 
-- ♥️ Passion, of course
+- ♥️ Italian passion, of course
