@@ -4,7 +4,7 @@
 
 # Volver
 
-**Volver** [bolˈβɛɾ] in Spanish means come back or give back.<br>
+**Volver** [bolˈβɛɾ] in Spanish means _come back_ or _give back_.<br>
 It's the collection of open-source projects maintained with ♥️ by
 
 <br>
