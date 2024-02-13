@@ -9,9 +9,9 @@ It's the collection of open-source projects maintained with ♥️ by
 
 <br>
 
-[![24/Consulting](/24consulting.svg)](https://24consulting.it)
+[![8 Wave](/8wave.svg)](https://8wave.it)
 <br><br>
-[Website](https://24consulting.it) | [Projects](https://www.24consulting.it/projects/) | [Careers](https://www.24consulting.it/careers/) | [Contact](https://www.24consulting.it/contact/)
+[Website](https://8wave.it) | [Projects](https://www.8wave.it/#progetti) | [Contact](https://www.8wave.it/#contatti)
 <br><br>
 
 </div>
